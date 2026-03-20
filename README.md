@@ -31,4 +31,4 @@ A modern, responsive **Todo List** built with **React**, featuring dark/light mo
 
 ### 1. Clone the repository
 ```bash
-git clone <https://github.com/code-aadi/React-Todo-List.git>
+git clone https://github.com/code-aadi/React-Todo-List.git
