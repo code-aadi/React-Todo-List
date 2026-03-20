@@ -75,6 +75,7 @@ else{
       <Mode setIsDark = {setIsDark} isDark={isDark} />
       <div className="input-area">
         <input type="text" placeholder='Enter Task'
+        spellCheck ={false}
           value={input}
           onChange={(e) => {
             setInput(e.target.value)
